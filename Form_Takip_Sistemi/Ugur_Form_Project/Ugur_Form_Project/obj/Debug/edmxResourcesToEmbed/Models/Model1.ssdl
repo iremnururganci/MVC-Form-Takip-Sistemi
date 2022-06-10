@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FormModel1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Durum">
+    <Key>
+      <PropertyRef Name="DurumID" />
+    </Key>
+    <Property Name="DurumID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DurumAdi" Type="varchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Olay">
+    <Key>
+      <PropertyRef Name="PersonelID" />
+    </Key>
+    <Property Name="PersonelID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Tarih" Type="varchar" MaxLength="50" />
+    <Property Name="Saat" Type="varchar" MaxLength="50" />
+    <Property Name="Yer" Type="varchar(max)" Nullable="false" />
+    <Property Name="Olay" Type="varchar(max)" Nullable="false" />
+    <Property Name="DurumID" Type="int" Nullable="false" />
+    <Property Name="Oneri" Type="varchar(max)" />
+    <Property Name="AdSoyad" Type="varchar(max)" />
+  </EntityType>
+  <Association Name="FK_Olay_Durum">
+    <End Role="Durum" Type="Self.Durum" Multiplicity="1" />
+    <End Role="Olay" Type="Self.Olay" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Durum">
+        <PropertyRef Name="DurumID" />
+      </Principal>
+      <Dependent Role="Olay">
+        <PropertyRef Name="DurumID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="FormModel1StoreContainer">
+    <EntitySet Name="Durum" EntityType="Self.Durum" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Olay" EntityType="Self.Olay" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Olay_Durum" Association="Self.FK_Olay_Durum">
+      <End Role="Durum" EntitySet="Durum" />
+      <End Role="Olay" EntitySet="Olay" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

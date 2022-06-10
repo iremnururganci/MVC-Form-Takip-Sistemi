@@ -1,0 +1,539 @@
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\Ugur_Form_Project.dll.config
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\Ugur_Form_Project.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\Ugur_Form_Project.pdb
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\csc.exe
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\csc.exe.config
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\csc.rsp
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\csi.exe
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\csi.exe.config
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\csi.rsp
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.AppContext.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Console.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Net.Http.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\vbc.exe
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\vbc.exe.config
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\vbc.rsp
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\Antlr3.Runtime.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\Newtonsoft.Json.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.Helpers.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.Mvc.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.Optimization.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.Razor.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.WebPages.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\WebGrease.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.Helpers.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.Mvc.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.Optimization.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.Razor.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.WebPages.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\Newtonsoft.Json.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\Antlr3.Runtime.pdb
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\obj\Debug\Ugur_Form_Project.csproj.AssemblyReference.cache
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\obj\Debug\Ugur_Form_Project.csproj.CoreCompileInputs.cache
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\obj\Debug\Ugur_Form_Project.csproj.CopyComplete
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\obj\Debug\Ugur_Form_Project.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\obj\Debug\Ugur_Form_Project.pdb
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\EntityFramework.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\EntityFramework.SqlServer.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\EntityFramework.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje\Ugur_Form_Project\Ugur_Form_Project\bin\EntityFramework.SqlServer.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Ugur_Form_Project.dll.config
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Ugur_Form_Project.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Ugur_Form_Project.pdb
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\csc.exe
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\csc.exe.config
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\csc.rsp
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\csi.exe
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\csi.exe.config
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\csi.rsp
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.AppContext.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Console.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Net.Http.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\vbc.exe
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\vbc.exe.config
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\vbc.rsp
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Antlr3.Runtime.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\EntityFramework.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\EntityFramework.SqlServer.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Newtonsoft.Json.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.Helpers.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.Mvc.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.Optimization.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.Razor.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.WebPages.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\WebGrease.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\EntityFramework.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\EntityFramework.SqlServer.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.Helpers.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.Mvc.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.Optimization.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.Razor.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.WebPages.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Newtonsoft.Json.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Antlr3.Runtime.pdb
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\obj\Debug\Ugur_Form_Project.csproj.AssemblyReference.cache
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\obj\Debug\Ugur_Form_Project.csproj.CoreCompileInputs.cache
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\obj\Debug\Ugur_Form_Project.csproj.CopyComplete
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\obj\Debug\Ugur_Form_Project.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\obj\Debug\Ugur_Form_Project.pdb
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.Options.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\System.Buffers.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\System.ComponentModel.Annotations.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\System.Memory.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\System.Numerics.Vectors.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\System.Text.Encodings.Web.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.Options.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\System.Buffers.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\System.Memory.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\System.Numerics.Vectors.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\System.Text.Encodings.Web.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje - Kopya\Ugur_Form_Project\Ugur_Form_Project\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\obj\Debug\Ugur_Form_Project.csproj.AssemblyReference.cache
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\obj\Debug\Ugur_Form_Project.csproj.CoreCompileInputs.cache
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\obj\Debug\Ugur_Form_Project.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\obj\Debug\Ugur_Form_Project.pdb
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Ugur_Form_Project.dll.config
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Ugur_Form_Project.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Ugur_Form_Project.pdb
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\csc.exe
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\csc.exe.config
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\csc.rsp
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\csi.exe
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\csi.exe.config
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\csi.rsp
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.AppContext.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Console.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Net.Http.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\vbc.exe
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\vbc.exe.config
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\vbc.rsp
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Antlr3.Runtime.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\EntityFramework.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\EntityFramework.SqlServer.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.Options.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Newtonsoft.Json.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\System.Buffers.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\System.ComponentModel.Annotations.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\System.Memory.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\System.Numerics.Vectors.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\System.Text.Encodings.Web.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.Helpers.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.Mvc.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.Optimization.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.Razor.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.WebPages.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\WebGrease.dll
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\EntityFramework.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\EntityFramework.SqlServer.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.Options.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\System.Buffers.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\System.Memory.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\System.Numerics.Vectors.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\System.Text.Encodings.Web.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.Helpers.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.Mvc.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.Optimization.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.Razor.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.WebPages.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Newtonsoft.Json.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Antlr3.Runtime.pdb
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ahmeturganci\Desktop\Staj Uğur Proje -\Ugur_Form_Project\Ugur_Form_Project\obj\Debug\Ugur_Form_Project.csproj.CopyComplete
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Ugur_Form_Project.dll.config
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Ugur_Form_Project.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Ugur_Form_Project.pdb
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\csc.exe
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\csc.exe.config
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\csc.rsp
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\csi.exe
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\csi.exe.config
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\csi.rsp
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.Managed.Core.targets
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.AppContext.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Collections.Immutable.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Console.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Globalization.Calendars.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.IO.Compression.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.IO.FileSystem.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Net.Http.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Net.Sockets.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.ValueTuple.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Xml.XmlDocument.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Xml.XPath.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\vbc.exe
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\vbc.exe.config
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\vbc.rsp
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\VBCSCompiler.exe
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\roslyn\VBCSCompiler.exe.config
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Antlr3.Runtime.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\EntityFramework.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\EntityFramework.SqlServer.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Authorization.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Http.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Routing.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.DependencyModel.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.ObjectPool.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.Options.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.Primitives.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Net.Http.Headers.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Web.Infrastructure.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Newtonsoft.Json.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\System.Buffers.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\System.ComponentModel.Annotations.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\System.Diagnostics.DiagnosticSource.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\System.Memory.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\System.Numerics.Vectors.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\System.Text.Encodings.Web.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\System.Threading.Tasks.Extensions.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.Helpers.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.Mvc.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.Optimization.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.Razor.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.WebPages.Deployment.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.WebPages.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.WebPages.Razor.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\WebGrease.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\EntityFramework.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\EntityFramework.SqlServer.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Authorization.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Http.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Routing.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.ObjectPool.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.Options.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Extensions.Primitives.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.Net.Http.Headers.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\System.Buffers.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\System.Diagnostics.DiagnosticSource.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\System.Memory.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\System.Numerics.Vectors.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\System.Text.Encodings.Web.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\System.Threading.Tasks.Extensions.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.Helpers.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.Mvc.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.Optimization.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.Razor.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.WebPages.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.WebPages.Deployment.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\System.Web.WebPages.Razor.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Newtonsoft.Json.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Antlr3.Runtime.pdb
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\obj\Debug\Ugur_Form_Project.csproj.AssemblyReference.cache
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\obj\Debug\Ugur_Form_Project.csproj.CoreCompileInputs.cache
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\obj\Debug\Ugur_Form_Project.csproj.CopyComplete
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\obj\Debug\Ugur_Form_Project.dll
+D:\STAJ\STAJ-1\Staj Uğur Proje -SistemAnalizi\Ugur_Form_Project\Ugur_Form_Project\obj\Debug\Ugur_Form_Project.pdb

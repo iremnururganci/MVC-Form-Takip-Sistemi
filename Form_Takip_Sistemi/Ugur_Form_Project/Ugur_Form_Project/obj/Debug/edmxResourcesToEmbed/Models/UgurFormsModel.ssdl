@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FormModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Bilgiler">
+    <Key>
+      <PropertyRef Name="PersonelID" />
+    </Key>
+    <Property Name="PersonelID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AdSoyad" Type="varchar(max)" />
+    <Property Name="SicilNo" Type="varchar(max)" />
+    <Property Name="Telefon" Type="varchar(max)" />
+    <Property Name="Email" Type="varchar(max)" />
+    <Property Name="Tarih" Type="datetime" Nullable="false" />
+    <Property Name="NitelikID" Type="int" Nullable="false" />
+    <Property Name="Konu" Type="varchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Durum">
+    <Key>
+      <PropertyRef Name="DurumID" />
+    </Key>
+    <Property Name="DurumID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DurumAdi" Type="varchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Nitelik">
+    <Key>
+      <PropertyRef Name="NitelikID" />
+    </Key>
+    <Property Name="NitelikID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NitelikAd" Type="varchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Olay">
+    <Key>
+      <PropertyRef Name="PersonelID" />
+    </Key>
+    <Property Name="PersonelID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Tarih" Type="datetime" />
+    <Property Name="Saat" Type="datetime" />
+    <Property Name="Yer" Type="varchar(max)" Nullable="false" />
+    <Property Name="Olay" Type="varchar(max)" Nullable="false" />
+    <Property Name="DurumID" Type="int" Nullable="false" />
+    <Property Name="Oneri" Type="varchar(max)" />
+    <Property Name="AdSoyad" Type="varchar(max)" />
+  </EntityType>
+  <Association Name="FK_Bilgiler_Nitelik">
+    <End Role="Nitelik" Type="Self.Nitelik" Multiplicity="1" />
+    <End Role="Bilgiler" Type="Self.Bilgiler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Nitelik">
+        <PropertyRef Name="NitelikID" />
+      </Principal>
+      <Dependent Role="Bilgiler">
+        <PropertyRef Name="NitelikID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Olay_Durum">
+    <End Role="Durum" Type="Self.Durum" Multiplicity="1" />
+    <End Role="Olay" Type="Self.Olay" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Durum">
+        <PropertyRef Name="DurumID" />
+      </Principal>
+      <Dependent Role="Olay">
+        <PropertyRef Name="DurumID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="FormModelStoreContainer">
+    <EntitySet Name="Bilgiler" EntityType="Self.Bilgiler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Durum" EntityType="Self.Durum" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Nitelik" EntityType="Self.Nitelik" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Olay" EntityType="Self.Olay" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Bilgiler_Nitelik" Association="Self.FK_Bilgiler_Nitelik">
+      <End Role="Nitelik" EntitySet="Nitelik" />
+      <End Role="Bilgiler" EntitySet="Bilgiler" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Olay_Durum" Association="Self.FK_Olay_Durum">
+      <End Role="Durum" EntitySet="Durum" />
+      <End Role="Olay" EntitySet="Olay" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

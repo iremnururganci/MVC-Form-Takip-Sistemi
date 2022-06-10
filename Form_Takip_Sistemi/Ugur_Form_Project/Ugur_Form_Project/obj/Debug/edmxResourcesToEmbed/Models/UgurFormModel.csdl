@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FormModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Bilgiler">
+    <Key>
+      <PropertyRef Name="PersonelID" />
+    </Key>
+    <Property Name="PersonelID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AdSoyad" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="SicilNo" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="Telefon" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="Email" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="Tarih" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="NitelikID" Type="Int32" Nullable="false" />
+    <Property Name="Konu" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Nitelik" Relationship="Self.FK_Bilgiler_Nitelik" FromRole="Bilgiler" ToRole="Nitelik" />
+  </EntityType>
+  <EntityType Name="Nitelik">
+    <Key>
+      <PropertyRef Name="NitelikID" />
+    </Key>
+    <Property Name="NitelikID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NitelikAd" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Bilgiler" Relationship="Self.FK_Bilgiler_Nitelik" FromRole="Nitelik" ToRole="Bilgiler" />
+  </EntityType>
+  <Association Name="FK_Bilgiler_Nitelik">
+    <End Role="Nitelik" Type="Self.Nitelik" Multiplicity="1" />
+    <End Role="Bilgiler" Type="Self.Bilgiler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Nitelik">
+        <PropertyRef Name="NitelikID" />
+      </Principal>
+      <Dependent Role="Bilgiler">
+        <PropertyRef Name="NitelikID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="FormEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Bilgiler" EntityType="Self.Bilgiler" />
+    <EntitySet Name="Nitelik" EntityType="Self.Nitelik" />
+    <AssociationSet Name="FK_Bilgiler_Nitelik" Association="Self.FK_Bilgiler_Nitelik">
+      <End Role="Nitelik" EntitySet="Nitelik" />
+      <End Role="Bilgiler" EntitySet="Bilgiler" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

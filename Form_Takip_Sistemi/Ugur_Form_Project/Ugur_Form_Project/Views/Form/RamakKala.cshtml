@@ -1,0 +1,102 @@
+﻿@model Ugur_Form_Project.Models.ViewModels.OlaylarVM
+
+<img src="~/Assets/logo.jpg" alt="Alternate Text" height="200" width="400" style="margin-top:40px" />
+<img src="~/Assets/logo2.jpg" align="right" alt="Alternate Text" height="200" width="200" style="margin-top:40px" />
+
+<h1 style="color:black" class="text-center"><b>RAMAK KALA KARTI</b></h1>
+
+<hr />
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+
+
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Tarih, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-3">
+                @Html.EditorFor(model => model.Tarih, new { htmlAttributes = new { @type = "date", @class = "form-control datepicker" } })
+                @Html.ValidationMessageFor(model => model.Tarih, "", new { @class = "text-danger" })
+            </div>
+            @Html.LabelFor(model => model.Saat, htmlAttributes: new { @class = "control-label col-md-2 " })
+            <div class="col-md-3">
+                @Html.EditorFor(model => model.Saat, new
+                {
+       @class = "form-control datepicker",
+                    type = "date"
+                })
+                @Html.ValidationMessageFor(model => model.Saat, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Yer, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Yer, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Yer, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Olay1, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10 ">
+                @Html.TextAreaFor(model => model.Olay1, new { htmlAttributes = new { @class = "form-control", rows = "3" } })
+                @Html.ValidationMessageFor(model => model.Olay1, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.DurumID, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("DurumID", new SelectList(ViewBag.Durum, "DurumID", "DurumAdi"), htmlAttributes: new { @class = "form-control  " })
+                @Html.ValidationMessageFor(model => model.DurumID, "", new { @class = "text-danger " })
+
+
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Oneri, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextAreaFor(model => model.Oneri, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Oneri, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.AdSoyad, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.AdSoyad, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.AdSoyad, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="İlet" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+@if (ViewBag.KayitMesaji != null)
+{
+    <script type="text/javascript">
+            window.onload = function () {
+                Swal.fire({
+                    title: 'Kayıt Durum!',
+                    text: '@ViewBag.KayitMesaji',
+                    icon: 'success'
+                })
+            };
+    </script>
+}
+<div>
+    @Html.ActionLink("GERİ", "Index", "Home")
+</div>
+@section Scripts {
+    @Scripts.Render("~/bundles/modernizr")
+}

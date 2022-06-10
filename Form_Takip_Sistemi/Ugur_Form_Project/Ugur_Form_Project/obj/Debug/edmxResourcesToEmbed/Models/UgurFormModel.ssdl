@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FormModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Bilgiler">
+    <Key>
+      <PropertyRef Name="PersonelID" />
+    </Key>
+    <Property Name="PersonelID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AdSoyad" Type="varchar(max)" />
+    <Property Name="SicilNo" Type="varchar(max)" />
+    <Property Name="Telefon" Type="varchar(max)" />
+    <Property Name="Email" Type="varchar(max)" />
+    <Property Name="Tarih" Type="varchar(max)" Nullable="false" />
+    <Property Name="NitelikID" Type="int" Nullable="false" />
+    <Property Name="Konu" Type="varchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Nitelik">
+    <Key>
+      <PropertyRef Name="NitelikID" />
+    </Key>
+    <Property Name="NitelikID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NitelikAd" Type="varchar(max)" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Bilgiler_Nitelik">
+    <End Role="Nitelik" Type="Self.Nitelik" Multiplicity="1" />
+    <End Role="Bilgiler" Type="Self.Bilgiler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Nitelik">
+        <PropertyRef Name="NitelikID" />
+      </Principal>
+      <Dependent Role="Bilgiler">
+        <PropertyRef Name="NitelikID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="FormModelStoreContainer">
+    <EntitySet Name="Bilgiler" EntityType="Self.Bilgiler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Nitelik" EntityType="Self.Nitelik" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Bilgiler_Nitelik" Association="Self.FK_Bilgiler_Nitelik">
+      <End Role="Nitelik" EntitySet="Nitelik" />
+      <End Role="Bilgiler" EntitySet="Bilgiler" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

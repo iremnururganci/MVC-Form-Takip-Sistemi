@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="FormModel1StoreContainer" CdmEntityContainer="FormEntities1">
+    <EntitySetMapping Name="Durum">
+      <EntityTypeMapping TypeName="FormModel1.Durum">
+        <MappingFragment StoreEntitySet="Durum">
+          <ScalarProperty Name="DurumID" ColumnName="DurumID" />
+          <ScalarProperty Name="DurumAdi" ColumnName="DurumAdi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Olay">
+      <EntityTypeMapping TypeName="FormModel1.Olay">
+        <MappingFragment StoreEntitySet="Olay">
+          <ScalarProperty Name="PersonelID" ColumnName="PersonelID" />
+          <ScalarProperty Name="Tarih" ColumnName="Tarih" />
+          <ScalarProperty Name="Saat" ColumnName="Saat" />
+          <ScalarProperty Name="Yer" ColumnName="Yer" />
+          <ScalarProperty Name="Olay1" ColumnName="Olay" />
+          <ScalarProperty Name="DurumID" ColumnName="DurumID" />
+          <ScalarProperty Name="Oneri" ColumnName="Oneri" />
+          <ScalarProperty Name="AdSoyad" ColumnName="AdSoyad" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

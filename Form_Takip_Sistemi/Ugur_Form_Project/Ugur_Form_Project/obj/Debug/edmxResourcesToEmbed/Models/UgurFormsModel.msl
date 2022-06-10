@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="FormModelStoreContainer" CdmEntityContainer="UgurFormsModel">
+    <EntitySetMapping Name="Bilgiler">
+      <EntityTypeMapping TypeName="FormModel.Bilgiler">
+        <MappingFragment StoreEntitySet="Bilgiler">
+          <ScalarProperty Name="PersonelID" ColumnName="PersonelID" />
+          <ScalarProperty Name="AdSoyad" ColumnName="AdSoyad" />
+          <ScalarProperty Name="SicilNo" ColumnName="SicilNo" />
+          <ScalarProperty Name="Telefon" ColumnName="Telefon" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Tarih" ColumnName="Tarih" />
+          <ScalarProperty Name="NitelikID" ColumnName="NitelikID" />
+          <ScalarProperty Name="Konu" ColumnName="Konu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Durum">
+      <EntityTypeMapping TypeName="FormModel.Durum">
+        <MappingFragment StoreEntitySet="Durum">
+          <ScalarProperty Name="DurumID" ColumnName="DurumID" />
+          <ScalarProperty Name="DurumAdi" ColumnName="DurumAdi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Nitelik">
+      <EntityTypeMapping TypeName="FormModel.Nitelik">
+        <MappingFragment StoreEntitySet="Nitelik">
+          <ScalarProperty Name="NitelikID" ColumnName="NitelikID" />
+          <ScalarProperty Name="NitelikAd" ColumnName="NitelikAd" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Olay">
+      <EntityTypeMapping TypeName="FormModel.Olay">
+        <MappingFragment StoreEntitySet="Olay">
+          <ScalarProperty Name="PersonelID" ColumnName="PersonelID" />
+          <ScalarProperty Name="Tarih" ColumnName="Tarih" />
+          <ScalarProperty Name="Saat" ColumnName="Saat" />
+          <ScalarProperty Name="Yer" ColumnName="Yer" />
+          <ScalarProperty Name="Olay1" ColumnName="Olay" />
+          <ScalarProperty Name="DurumID" ColumnName="DurumID" />
+          <ScalarProperty Name="Oneri" ColumnName="Oneri" />
+          <ScalarProperty Name="AdSoyad" ColumnName="AdSoyad" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

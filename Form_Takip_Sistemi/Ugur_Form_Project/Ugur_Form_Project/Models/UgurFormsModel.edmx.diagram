@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="334ddb8608e74c30b9e8304e66b76857" Name="Diagram1">
+        <EntityTypeShape EntityType="FormModel.Bilgiler" Width="1.5" PointX="3" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="FormModel.Durum" Width="1.5" PointX="0.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="FormModel.Nitelik" Width="1.5" PointX="0.75" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="FormModel.Olay" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="FormModel.FK_Bilgiler_Nitelik" ManuallyRouted="false" />
+        <AssociationConnector Association="FormModel.FK_Olay_Durum" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
